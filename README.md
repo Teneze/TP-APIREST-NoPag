@@ -26,7 +26,15 @@ https://tp-apirest-nopag.onrender.com/
 
 4- Descomprima el archivo
 
-5- Abra el proyecto en Intellij IDEA 
+5- Abra el proyecto en Intellij IDEA
+
+## Para utilizar el archivo Postman del proyecto:
+
+1 - Abrir Postman
+
+2- En la esquina superior izquierda de la ventana de Postman (junto a New), seleccionar "Import".
+
+3- Dropear en la ventana que se abrira el archivo "Api Request.postman_collection.json"
 
 ## Realizado por
 [Ezquiel Tenerini](https://github.com/Teneze)
