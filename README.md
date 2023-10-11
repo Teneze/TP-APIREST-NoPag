@@ -34,7 +34,7 @@ https://tp-apirest-nopag.onrender.com/
 
 2- En la esquina superior izquierda de la ventana de Postman (junto a New), seleccionar "Import".
 
-3- Dropear en la ventana que se abrira el archivo "Api Request.postman_collection.json"
+3- Dropear en la ventana que se abrira, el archivo "Api Request.postman_collection.json"
 
 ## Realizado por
 [Ezquiel Tenerini](https://github.com/Teneze)
